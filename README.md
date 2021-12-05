@@ -1,3 +1,3 @@
 # chatbot-framework-elixir
 
-![alt text](./docs/Chatbot.png "Title")
+![Architecture](./docs/Chatbot.png "Architecture")
